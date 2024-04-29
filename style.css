@@ -1,9 +1,9 @@
 body {
-    background-color: #ffe6f2; /* Light pink */
+    background-color: #000000; /* Light pink */
 }
 
 header {
-    background-color: #ff99cc; /* Medium pink */
+    background-color: #ac99ff; /* Medium pink */
     padding: 20px;
 }
 
@@ -20,25 +20,24 @@ header h1, header p {
 
 .btn-primary {
     background-color: #ac99ff !important; /* Medium pink */
-    border-color: #ff99cc !important; /* Medium pink */
+    border-color:#ac99ff !important; /* Medium pink */
     color: #ffffff !important; /* White */
     font-weight: bold;
 }
 
 #eventTitle {
-    color: #ff66b3; /* Dark pink */
+    color: #776a96; /* Dark pink */
 }
 
 #eventDate, #eventDescription {
-    color: #666666; /* Gray */
+    color: #000000; /* Gray */
 }
 
 footer {
-    background-color: #ff99cc; /* Medium pink */
+    background-color:#ac99ff; /* Medium pink */
     padding: 10px;
     position: fixed;
     bottom: 0;
-    width: 100%;
 }
 
 footer p {
